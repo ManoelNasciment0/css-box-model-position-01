@@ -1,0 +1,29 @@
+#first {
+    border: 5px solid blue;
+    margin: 5px;
+    padding: 10px;
+}
+#second {
+    border: 8px pink;
+    margin: 5px;
+    padding: 10px;
+    border-style: dashed;
+}
+#third {
+    border: 11px grey;
+    margin: 5px;
+    padding: 10px;
+    border-style: dotted;
+}
+#fourth {
+    border: 14px red;
+    margin: 5px;
+    padding: 10px;
+   border-style: ridge;
+}
+#fifth {
+    border: 17px black;
+    margin: 5px;
+    padding: 10px;
+    border-style: double;
+}
